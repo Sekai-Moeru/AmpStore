@@ -1,12 +1,9 @@
-# SideStore
+# AmpStore
 
-> SideStore is an *untethered, community driven* alternative app store for non-jailbroken iOS devices 
+> AmpStore is an *semi-tethered, community driven* alternative app store for non-jailbroken iOS devices 
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![Nightly SideStore build](https://github.com/SideStore/SideStore/actions/workflows/nightly.yml/badge.svg)](https://github.com/SideStore/SideStore/actions/workflows/nightly.yml)
-[![.github/workflows/beta.yml](https://github.com/SideStore/SideStore/actions/workflows/beta.yml/badge.svg)](https://github.com/SideStore/SideStore/actions/workflows/beta.yml)
-[![Discord](https://img.shields.io/discord/949183273383395328?label=Discord)](https://dis.sidestore.io)
 
 ![Alt](https://repobeats.axiom.co/api/embed/3a329ce95955690b9a9366f8d5598626a847d96c.svg "Repobeats analytics image")
 
